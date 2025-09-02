@@ -1,10 +1,10 @@
 # Brain Tumor Classification and Area Segmentation Using YOLOv11 Framework
 
 This project implements a **deep learning–based system for brain tumor detection and segmentation** using the **yolo11s-seg.pt model**. The system automatically identifies the tumor type and regions in brain MRI images, generates segmentation masks, and estimates tumor size relative to the brain area.
----
+
 ## 🌐 Live Demo  
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://braintumor-classificationsegmentationyolov11-tqzk6g5wzsbptq3cuh.streamlit.app)
----
+
 The project includes:
 
 * A **Streamlit web application** (`app.py`) for real-time tumor detection and mask visualization.
