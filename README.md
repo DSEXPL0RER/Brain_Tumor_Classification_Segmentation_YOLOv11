@@ -31,7 +31,7 @@ The project includes:
 ├── app.py                          # Streamlit web application
 ├── requirements.txt                # Dependencies for deployment
 ├── YOLOv11s_Model_Training.ipynb   # Notebook for training the model
-├── YOLOv11s_Model_Testing.ipynb    # Notebook for model evaluation
+├── Model_Prediction_Demo.ipynb     # Notebook for model evaluation
 ├── best.pt                         # Trained yolo11s-seg.pt model weights
 └── README.md                       # Project documentation
 ```
